@@ -28,7 +28,7 @@ sudo dnf install fping
 sudo apk add fping
 
 mkdir -p ~/scripts && cd ~/scripts
-wget -O dns-ping.sh https://raw.githubusercontent.com/ТВОЙ-НИК/dns-ping-monitor/main/dns-ping.sh
+wget -O dns-ping.sh https://raw.githubusercontent.com/chigisheff/dns-ping-monitor/main/dns-ping.sh
 chmod +x dns-ping.sh
 
 # Добавить в PATH (один раз)
