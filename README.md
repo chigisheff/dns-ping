@@ -3,7 +3,7 @@
 Самый честный и красивый живой пинг-мониторинг публичных DNS-серверов прямо в терминале.  
 30+ серверов, цветовая индикация, сортировка по реальной задержке, обновление каждые N секунд.
 
-<img src="[https://i.imgur.com/ABC123.png](https://drive.google.com/file/d/1uVZTg4wsuDQ1cDjMLKMUQC_ofTXCJfyV/view?usp=sharing)" alt="Скриншот" width="750"/>
+<img src="2025-11-22_13-56.png " alt="Скриншот" width="750"/>
 
 ## Особенности
 
